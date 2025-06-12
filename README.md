@@ -21,18 +21,21 @@ SQL scripts to create a Sales Table, and then the Advanced Data is Analysed on t
 
 Files with thier specification as directed:
 
-1.Data Analysis with Complex Queries TASK-2.sql           (uploaded as real sql file from MYSQL).
-2. Sales Table Output TASK-2.csv                          (uploaded file for table output).
-3. Row_number Window Function Table Output TASK-2.csv     (uploaded file as window function(ROW_Number)Table Output)
-4. Rank Window Function Table Output TASK-2.csv           (uploaded file as window Function(Rank) Table Output)
-5. Dense_Rank Window Function Table Output TASK-2.csv     (uploaded file as window Function(Dense_Rank) Table Output)
-6. Lead Window Function Table Output TASK-2.csv           (uploaded file as window Function(Lead) Table Output)
-7. Lag Window Function Table Output TASK-2.csv            (uploaded file as window Function(Lag) Table Output)
-8. Basic Way of Window Function Table Output TASK-2.csv   (uploaded file as window Function Table Output)
-9. Subquery Table Output TASK-2.csv                       (uploaded file as Sub-queries operation Table Output)
-10.CTE (Common Table Expression) Table Output TASK-2.csv  (uploaded file as CTE query Table Output)
-11.Combined CTE & Window Function Table Output TASK-2.csv (uploaded file as Combined Analysis of CTE & Window Function Table Output)
-12. README.md                                             
+
+| File Name                                                                 | Description                                                                                  |
+|---------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| `Data Analysis with Complex Queries TASK-2.sql`                           | SQL script containing all complex queries used in this task                                  |
+| `Sales Table Output TASK-2.csv`                                           | Original data output from the sales table                                                    |
+| `Row_number Window Function Table Output TASK-2.csv`                      | Result of applying `ROW_NUMBER()` window function                                            |
+| `Rank Window Function Table Output TASK-2.csv`                            | Result of applying `RANK()` window function                                                  |
+| `Dense_Rank Window Function Table Output TASK-2.csv`                      | Result of applying `DENSE_RANK()` window function                                            |
+| `Lead Window Function Table Output TASK-2.csv`                            | Result of applying `LEAD()` window function                                                  |
+| `Lag Window Function Table Output TASK-2.csv`                             | Result of applying `LAG()` window function                                                   |
+| `Basic Way of Window Function Table Output TASK-2.csv`                    | Output using a basic implementation of window functions                                      |
+| `Subquery Table Output TASK-2.csv`                                        | Result of executing nested and correlated subqueries                                         |
+| `CTE (Common Table Expression) Table Output TASK-2.csv`                   | Result of queries using Common Table Expressions                                             |
+| `Combined CTE & Window Function Table Output TASK-2.csv`                  | Output demonstrating the combination of CTEs and window functions for advanced analytics     |
+| `Readme.MD`                                                               | The Overview document of this repository to understand the operations                        |
 
 
 # TOOLS-USED
